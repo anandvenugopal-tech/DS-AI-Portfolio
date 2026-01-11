@@ -13,10 +13,10 @@ This repository is a structured archive of my work files across the Data Science
 * **`03_machine_learning/dimensionality_reduction/`**: PCA, LDA, and t-SNE techniques.
 
 ### Deep Learning
-* **`05_deep_learning/`**: Neural network architectures including Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN).
+* **`04_deep_learning/`**: Neural network architectures including Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN).
 
 ### Complete Workflow
-* **`06_end_to_end_project/`**: Integrated files connecting preprocessing, ML models, and evaluation into a single pipeline.
+* **`05_end_to_end_project/`**: Integrated files connecting preprocessing, ML models, and evaluation into a single pipeline.
 
 ---
 
